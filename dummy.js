@@ -5,3 +5,5 @@ const randomOBJ = {
   },
 };
 randomOBJ.write();
+
+const 4ngle = 12
