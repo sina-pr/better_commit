@@ -6,4 +6,4 @@ const randomOBJ = {
 };
 randomOBJ.write();
 
-const 4ngle = 12
+const Angle = 12;
