@@ -7,3 +7,5 @@ const randomOBJ = {
 randomOBJ.write();
 
 const Angle = 12;
+
+const foo = 'bar';
